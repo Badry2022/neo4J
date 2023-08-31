@@ -1,5 +1,4 @@
 
-```markdown
 # Projet Neo4j avec venv, Poetry et Docker
 
 ## Description
